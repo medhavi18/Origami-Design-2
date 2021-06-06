@@ -1,0 +1,29 @@
+h1{
+    color: rgb(221, 200, 14);
+    background-color: rgb(55, 77, 124);
+    font-family : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    border :solid;
+}
+
+body{
+    background-color: rgb(230, 210, 39);
+}
+
+.grid{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{
+    border: solid ;
+    border-width: 1px;
+}
+
+p{
+    color: rgb(55, 77, 124);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
